@@ -1,0 +1,2 @@
+(this.webpackJsonpchatapp=this.webpackJsonpchatapp||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),s=c(3),a=c.n(s),i=(c(8),c(0));function r(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"Hello CodeSandbox"}),Object(i.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var o=document.getElementById("root");a.a.render(Object(i.jsx)(n.StrictMode,{children:Object(i.jsx)(r,{})}),o)},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.22b5a34c.chunk.js.map
